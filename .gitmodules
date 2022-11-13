@@ -1,0 +1,3 @@
+[submodule "defi-staking-app"]
+	path = defi-staking-app
+	url = https://github.com/khawlahssn/defi-staking-app
